@@ -1,6 +1,6 @@
 # Aliases
 
-alias ls exa
+alias ls lsd
 
 # Starship init
 
