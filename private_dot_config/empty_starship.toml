@@ -1,0 +1,7 @@
+# A minimal left prompt
+format = """$character"""
+
+add_newline = true
+
+# move the rest of the prompt to the right
+right_format = """$all"""
